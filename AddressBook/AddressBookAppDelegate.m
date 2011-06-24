@@ -21,7 +21,7 @@
 {
     // Override point for customization after application launch.
      
-    // this is anil
+    // this is anil // shemona
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
     return YES;
