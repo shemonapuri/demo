@@ -22,6 +22,8 @@
     // Override point for customization after application launch.
      
     // this is anil // shemona
+	
+	//aakhir ho gaya
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
     return YES;

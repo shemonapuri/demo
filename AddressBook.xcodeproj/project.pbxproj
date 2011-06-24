@@ -214,7 +214,6 @@
 			isa = PBXProject;
 			buildConfigurationList = 5382C30F13A7310B00F6997C /* Build configuration list for PBXProject "AddressBook" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -457,6 +456,7 @@
 				5382C34E13A7310C00F6997C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5382C34F13A7310C00F6997C /* Build configuration list for PBXNativeTarget "AddressBookTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +465,7 @@
 				5382C35113A7310C00F6997C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
