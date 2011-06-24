@@ -24,6 +24,7 @@
     // this is anil // shemona
 	
 	//aakhir ho gaya
+	//dobara ho gaya
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
     return YES;
